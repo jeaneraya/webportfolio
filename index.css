@@ -1,0 +1,21 @@
+* {
+	font-family: 'Edu NSW ACT Foundation', cursive;
+}
+
+#sidebar {
+	height: 100vh;
+	background-image: linear-gradient(to top, #ff801e, #fcb61a);
+	border-top-right-radius: 50px;
+}
+#topMenu {
+	height: 15vh;
+	background-color: white;
+}
+#image {
+	width: 5%;
+}
+#sidebar a {
+	font-size: 20pt;
+	margin-bottom: 15%;
+	font-family: 'Edu NSW ACT Foundation', cursive;
+}
