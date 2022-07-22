@@ -22,3 +22,25 @@
 .sideIcon {
 	margin-right: 10px;
 }
+
+.navbar {
+	background-image: linear-gradient(to right, #ff801e, #fcb61a);
+}
+
+@media screen and (min-width: 480px) {
+.navbar {
+	display: none;
+}
+}
+
+@media screen and (max-width: 480px) {
+#sideLeft, #menu-name {
+	display: none;
+}
+}
+
+@media screen and (max-width: 480px) {
+#menu-image {
+	width: 20%;
+}
+}
