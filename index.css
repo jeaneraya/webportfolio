@@ -14,8 +14,11 @@
 #image {
 	width: 5%;
 }
-#sidebar a {
+#sideMenu {
 	font-size: 20pt;
 	margin-bottom: 15%;
 	font-family: 'Edu NSW ACT Foundation', cursive;
+}
+.sideIcon {
+	margin-right: 10px;
 }
