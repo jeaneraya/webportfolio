@@ -24,6 +24,7 @@ html {
 }
 #jeanphoto {
 	border: 4px solid #04c2c9;
+	width: 60%;
 }
 .progress-bar-striped {
 	background-color: #04c2c9;
